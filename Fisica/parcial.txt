@@ -1,0 +1,60 @@
+probme 6.82 https://es.slideshare.net/etubay/grupo-10-trabajo-y-energia-ejercicios
+problema 6.7 https://es.slideshare.net/etubay/grupo-10-trabajo-y-energia-ejercicios
+problema 6.17 http://mariaolivo2.blogspot.com/2015/11/ejercicio-tema-6-trabajo-y-energia.html
+problema 6.41 https://www.youtube.com/watch?v=IYhQz5R36s4 
+problema 6.73 https://www.youtube.com/watch?v=jRQorpxNGgg
+
+problema 6.7 
+
+
+Dos bloques están conectados por un cordón muy ligero que pasa
+por una polea sin masa y sin fricción (figura 6.30). Al viajar a rapidez
+constante, el bloque de 20.0 N se mueve 75.0 cm a la derecha y el
+bloque de 12.0 N se mueve 75.0 cm hacia abajo. Durante este proceso,
+¿cuánto trabajo efectúa a) sobre el bloque de 12.0 N, i) la gravedad
+y ii) la tensión en el cordón? b) sobre el bloque de 20.0 N, i) la gravedad, ii) la tensión en el cordón, iii) la fricción y iv) la fuerza normal?
+c) Obtenga el trabajo total efectuado sobre cada bloque.
+
+problema 6.17 
+
+imagine que pertenece a la Cuadrilla de Rescate Alpino y debe
+proyectar hacia arriba una caja de suministros por una pendiente de
+ángulo constante a, de modo que llegue a un esquiador varado que
+está una distancia vertical h sobre la base de la pendiente. La pendiente es resbalosa, pero hay cierta fricción presente, con coeficiente
+de fricción cinética mk. Use el teorema trabajo-energía para calcula
+
+6.41 
+
+
+Un deslizador pequeño con masa de 0.0900 kg se coloca contra
+un resorte comprimido en la base de un riel de aire inclinado 40.08
+hacia arriba sobre la horizontal. El resorte tiene k 5 640 N>m y masa
+despreciable. Al soltarse el resorte, el deslizador viaja una distancia
+máxima de 1.80 m sobre el riel antes de deslizarse hacia abajo. Antes
+de alcanzar esta distancia máxima, el deslizador pierde contacto con
+
+
+6.73
+
+Un hombre y su bicicleta tienen una masa combinada de 80.0 kg.
+Al llegar a la base de un puente, el hombre viaja a 5.00 m>s (figura
+6.35). La altura vertical del puente que debe subir es de 5.20 m, y en la
+cima la rapidez del ciclista disminuyó a 1.50 m>s. Ignore la fricción
+y cualquier ineficiencia de la bicicleta o de las piernas del ciclista.
+a) ¿Qué trabajo total se efectúa sobre el hombre y su bicicleta al subir
+de la base a la cima del puente? b) ¿Cuánto trabajo realizó el hombre
+con la fuerza que aplicó a los pedales?
+
+
+6.82
+
+2. Considere el sistema de la
+figura 6.37. La cuerda y la polea
+tienen masas despreciables, y la
+polea no tiene fricción. Entre el
+bloque de 8.00 kg y la mesa,
+el coeficiente de fricción cinética
+es mk 5 0.250. Los bloques se
+sueltan del reposo. Use métodos
+de energía para calcular la rapidez del bloque de 6.00 kg después de descender 1.50 m.
+
